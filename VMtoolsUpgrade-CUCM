@@ -1,0 +1,11 @@
+CLI:
+
+admin: utils os secure permissive
+
+**right click on guest, select Install Upgrade VMware tools, select interactive upgrade then OK
+
+admin: utils vmtools refresh
+
+***Once reboot:
+
+admin: utils os secure enforce
